@@ -1,0 +1,6 @@
+# Scan output: file inventories, delta state, exported certificates
+output/
+
+# Local editor / assistant config
+*.code-workspace
+.claude/
